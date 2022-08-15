@@ -1,0 +1,37 @@
+body{
+    background-color: #EFEAD8;
+    
+}
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    
+}
+#flag{
+    display: flex;
+    flex-direction: row;
+}
+.stripe {
+    width: 100px;
+    height: 300px;
+    
+}
+#green-stripe {
+    background-color: #224B0C;
+}
+#white-stripe{
+    background: rgb(255, 255, 255);
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+}
+#green2-stripe{
+    background-color: #224B0C;
+}
+#eagle {
+    height: 80px;
+    width: 80px;
+}
